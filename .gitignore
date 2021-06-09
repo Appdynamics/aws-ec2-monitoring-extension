@@ -8,4 +8,10 @@ target
 *.iws
 .idea
 .DS_Store
-
+.teamcity/*
+docker-compose.yml
+Dockerfile
+Makefile
+src/integration-test/*
+main.tf
+variables.tf
