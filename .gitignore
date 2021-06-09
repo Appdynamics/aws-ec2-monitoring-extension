@@ -11,7 +11,8 @@ target
 
 .teamcity/*
 docker-compose.yml
-Dockerfile_MA
-Dockerfile_WorkBench
+Dockerfile
 Makefile
 src/integration-test/*
+main.tf
+variables.tf
